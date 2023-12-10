@@ -1,5 +1,5 @@
 ---
-description: 🗓️ Starting Q4 2023
+description: 🗓️ Launching in Q4 2023 - Q1 2024
 ---
 
 # Closed Beta Test

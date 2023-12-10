@@ -1,5 +1,5 @@
 ---
-description: 🗓️ Launch in Q2 2024
+description: 🗓️ Launch in Q3 2024
 ---
 
 # Release v1
