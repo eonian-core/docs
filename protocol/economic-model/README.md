@@ -1,0 +1,9 @@
+# ⚖ Economic Model
+
+The full model will be described later in the whitepaper, but there is shown a high-level overview of the protocol economic model.
+
+The overall economic model is quite simple. We replicated a traditional bank's business model while adjusting it for the crypto market. To make it work on a chain, we combined the insurance business model with the BDS (Business Development Companies) investment process. In simple words, we give protocols (businesses in traditional terms) loans while maintaining overall assets health through insurance and paying users percentage from these loans as a premium. In a similar way, working savings accounts in traditional banks. With only a few exceptions:
+
+* Banks work not only with businesses but also give loans to regular clients. While on a chain all users are mainly anonymous, client loans can be represented only through collateral lending. This solution is already pretty well implemented by many old protocols like Compound and Aave. There is no reason to replicate it. Instead, we are building on top of them and providing liquidity to such protocols.
+* Banks’ liquidity flow and overall health state are unclear at any moment, but on-chain, we can trace the protocol's whole liquidity at any moment. This makes our solution even more transparent and safer than traditional banks, by definition.
+* A most important difference with banks is that for the majority of protocols, we can withdraw tokens at any moment. This not only allows the implementation of safer solutions but also requires changes in risk management in comparison to traditional banks. They usually take a long time to investigate the client before giving him a loan. We, on the other hand, must make such an analysis not only initially but also in each block (almost each second). The model requires monitoring of all investment protocols and redistribution of liquidity as often as possible to increase returns and decrease risks.

@@ -1,16 +1,30 @@
 ---
 description: >-
-  Eonian works as a yield aggregator. There, you can take a deeper look at how
-  yield aggregators work.
+  At the core of Eonian is based on yield aggregator protocol. There, you can
+  take a deeper look at how yield aggregators work.
 ---
 
 # 🌾 Yield Aggregator
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 A yield aggregator is a DeFi protocol that automates the process of earning yield on deposited funds. It aims to maximize the yield that users can earn from various DeFi platforms by automatically allocating deposited funds into the most profitable protocols. Here is how Eonian, as a yield aggregator, plays a pivotal role in streamlining the DeFi investment process:
 
 ## **Yield Optimization**
 
-Eonian's yield aggregator function is specifically designed to optimize your returns. We automatically direct your investments towards various DeFi protocols, ensuring your tokens are put to work in the most rewarding and secure environments. The key idea is to deliver the highest possible APY for your investments with minimal risk exposure.
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Eonian's yield aggregator Vaults is specifically designed to optimize your returns. We automatically search, audit, and distribute your investments towards various DeFi protocols, ensuring your tokens are put to work in the most rewarding and secure environments. The key idea is to deliver the highest possible APY for your investments with minimal risk exposure.
+
+You can read more about the base logic of yield aggregators [there](https://blog.eonian.finance/how-defi-works-understanding-the-protocol-life-curve-df90342ac4c9).
 
 ## **Automated Strategy**
 
@@ -19,6 +33,12 @@ Automation is at the core of our yield aggregator. Eonian continuously monitors 
 ## **Security-Centric Approach**
 
 We recognize the importance of security in DeFi investments. Every protocol we invest in undergoes an independent audit performed by our in-house team, further enhancing the security of your investments.
+
+You can read more about security there.
+
+{% content-ref url="../security/security-overview.md" %}
+[security-overview.md](../security/security-overview.md)
+{% endcontent-ref %}
 
 ## 🛠️ **Transparency and Control**
 
