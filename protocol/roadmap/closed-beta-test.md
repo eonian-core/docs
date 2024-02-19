@@ -1,10 +1,10 @@
 ---
-description: 🗓️ Launching in Q4 2023 - Q1 2024
+description: 🗓️ Launched in Q1 2024
 ---
 
 # Closed Beta Test
 
-After addressing all major issues during **the alpha test** and rolling out multiple advanced strategies, we expect to offer stable and high APY at the start of the closed beta test. While our protocol's safety level will match other yield aggregators, we aim to go above and beyond.
+We developed a whitepaper and a new version of the protocol. We launched the first decentralized savings account protocol after successfully testing our core solution, the yield aggregator protocol. The core was tested significantly during the alpha test and is now fully covered by our insurance.
 
 ## During the Closed Beta Test
 
