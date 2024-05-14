@@ -37,6 +37,7 @@
 
 * [🛡 Security Overview](security/security-overview.md)
 * [📋 Vertical Audits](security/vertical-audits.md)
+* [📋 Protocol Audits](security/protocol-audits.md)
 * [⏰ Intelligent Emergency Shutdown](security/intelligent-emergency-shutdown.md)
 
 ## Ambassador Program
