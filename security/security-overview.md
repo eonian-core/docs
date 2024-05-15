@@ -33,10 +33,22 @@ To solve DeFi security issues, we use many different approaches and strategies, 
 
 We place the central place of our development on the security of protocol. You can read more about it on our [website](https://eonian.finance/security).&#x20;
 
-There, you can read additional information and explanations of the different safety systems that we use. For example, Vertical Audits.
+There, you can read additional information and explanations of the different safety systems that we use. For example, Vertical Audits:
 
 {% content-ref url="vertical-audits.md" %}
 [vertical-audits.md](vertical-audits.md)
+{% endcontent-ref %}
+
+Audits of our protocol by third-party providers:
+
+{% content-ref url="protocol-audits.md" %}
+[protocol-audits.md](protocol-audits.md)
+{% endcontent-ref %}
+
+The system that prevents excessive losses of assets:
+
+{% content-ref url="intelligent-emergency-shutdown.md" %}
+[intelligent-emergency-shutdown.md](intelligent-emergency-shutdown.md)
 {% endcontent-ref %}
 
 ### Additional Resources
