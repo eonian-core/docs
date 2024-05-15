@@ -5,7 +5,7 @@ description: >-
   financial security level.
 ---
 
-# 🛡 Security Overview
+# 🛡️ Security Overview
 
 <div data-full-width="true">
 
@@ -18,14 +18,15 @@ Security is a more complicated topic in DeFi than in traditional finances. We de
 To solve DeFi security issues, we use many different approaches and strategies, which include:
 
 * **SecOps and Secure SDLC -** We take a security-first approach to ensure that all of our contracts are safe to use. We use enterprise-level software security practices such as SecOps and Secure SDLC, which have already shown great results in the Web2 world but have been overlooked by many Web3 developers.
-* **Continuous Monitoring -** We don't stop at the audit of the protocol. Security is not a point where you can stop working. We monitor new breaches and hacks in DeFi to quickly react and fix vulnerabilities where others may be failing. You can see the list of vulnerabilities that we collected and monitor [there](https://www.notion.so/DeFi-Hacks-and-Vulnerabilities-a53964267ca14f87af2a3cc0e40130f8?pvs=21).
+* **Continuous Monitoring -** We don't stop at the audit of the protocol. Security is not a point where you can stop working. We monitor new breaches and hacks in DeFi to quickly react and fix vulnerabilities where others may be failing. You can see the list of vulnerabilities that we collected and monitor [there](https://leovs09.notion.site/DeFi-Hacks-and-Vulnerabilities-a53964267ca14f87af2a3cc0e40130f8?pvs=74).
 * **Rigorous Testing -** We use code review, automated testing, and code coverage reports. We investigate and will build a solution for automated code analysis for vulnerabilities.
 * **Attack Analysis -** We collected more than 40 smart contract vulnerabilities and different hack cases. During development, we are making vector attack analyses using these vulnerabilities to find ways the hackers can attack our protocol.
 * **Attack Simulations -** We are working on instruments to test protocol by making possible attack simulations on the blockchain before deploying new changes for the mainnet.
 * **Multi-layer Testing -** We test our protocol on three different levels: Preview (On testnet), Development (on mainnet, but only accessible to the main team), and Staging (On Mainnet, but accessible to the team and dedicated alpha testers). You can read about it [there](https://github.com/eonian-core/farm/blob/main/docs/protocol-updates-workflow.md).
-* **Insurance Pool -** At the current moment, our insurance pool is mainly bootstrapped on founders’ money. It means that in case of any issue or hack, we will first who lose money as we will be forced to repay users their losses. This way, we want to show how much we trust our solution and how much we are motivated to keep the safety of the solution at the highest level. The pool is stored separately from the main protocol. This ensures we will be able to repay users’ money even if the Eonian protocol is compromised.
+* **Insurance Pool -** At the current moment, our insurance pool is mainly bootstrapped on founders’ money. It means that in case of any issue or hack, we will first who lose money as we will be forced to repay users their losses. This way, we want to show how much we trust our solution and how motivated we are to keep the safety of the solution at the highest level. The pool is stored separately from the main protocol. This ensures we will be able to repay users’ money even if the Eonian protocol is compromised.
 * **Next-generation security system -** We are working on protocol monitoring on blockchain. It will monitor not only our protocol but also the protocols in which we move liquidity. At any moment, monitoring will be able to provide the current state of money flow and the health state's overall investment system. It will also use the mempool of the blockchain to monitor future transactions and to understand when there will be possible hacks or issues that can result in money loss. By using such information, we will be able to automatically send withdrawal transactions before bad transactions are committed and save all money from vulnerable protocols.
-* **Security Audits -** We make independent vertical audits of all protocols in which our protocol invests. Unlike standard audits, which primarily focus on code, vertical audits offer a holistic examination. This includes not only the code but also the operational mechanisms, administrative roles, upgrade paths, and, critically, the team behind the protocol. You can see the list of audits [there](https://www.notion.so/7eb42e1464f84a62bd33353ccf483707?pvs=21).
+* **Third-party Audits** - our smart contract protocol is continuously validated by third-party audit companies before each significant change is deployed to the public.
+* **Vertical Audits -** We make independent vertical audits of all protocols in which our protocol invests. Unlike standard audits, which primarily focus on code, vertical audits offer a holistic examination. This includes not only the code but also the operational mechanisms, administrative roles, upgrade paths, and, critically, the team behind the protocol. You can see the list of audits [there](https://www.notion.so/7eb42e1464f84a62bd33353ccf483707?pvs=21).
 * **Circuit Breakers** - If our protocol detects significant losses, it automatically pauses itself and withdraws all money to prevent further damage. You can read about it [there](https://www.notion.so/Intelligent-Emergency-Shutdown-Mode-9a00c3924ff2460fbb3b08cc63750c7c?pvs=21).
 
 ## Learn More

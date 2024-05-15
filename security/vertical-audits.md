@@ -1,8 +1,14 @@
+---
+description: >-
+  There you can learn about indendent audits performed by our team on
+  third-party protocols that we integrated with.
+---
+
 # 📋 Vertical Audits
 
-At Eonian, we place a premium on the security of your investment. That's why we've innovated beyond the traditional audit approach with our comprehensive "vertical audits".
+At Eonian, we place a target on the security of your investment. That's why we've innovated beyond the traditional audit approach with our comprehensive "vertical audits".
 
-Unlike standard audits, which primarily focus on code, vertical audits offer a holistic examination. This includes not only the code but also the operational mechanisms, administrative roles, upgrade paths, and critically, the team behind the protocol.
+Unlike standard audits, which primarily focus on code, vertical audits offer a holistic examination. This includes not only the code but also the operational mechanisms, administrative roles, upgrade paths, and, critically, the team behind the protocol.
 
 Now, you may wonder - why does the team matter? Here's an insight. The DeFi world is riddled with stories of protocols hacked, not due to a vulnerability in the code, but because of mismanagement of protocol access or, worse, intentional misconduct by the team. Such risks often bypass traditional audits, as they focus primarily on code, not people and processes.
 
@@ -15,3 +21,4 @@ Vertical audits exemplify our commitment to redefine the DeFi landscape by makin
 ### Resources
 
 * [List of Audits](https://leovs09.notion.site/Protocols-Audits-6bfdf8b29fb245b2be8db5c24726e795?pvs=4)
+* [Audits of our protocol](protocol-audits.md) are performed by third-party audit companies.
