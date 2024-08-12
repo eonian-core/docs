@@ -85,3 +85,9 @@ You can read more about the economic model behind the insurance pool there.
 {% content-ref url="../protocol/economic-model/" %}
 [economic-model](../protocol/economic-model/)
 {% endcontent-ref %}
+
+### What does "Eonian" mean?
+
+In a direct sense, Eonian means continuing forever or indefinitely. The eonian word refers to a geological eon (longer than an era).&#x20;
+
+We have chosen that name because we want to create a truly reliable solution. Protocol that will stand the test of time—one that is truly Eonian.&#x20;
