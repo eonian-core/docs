@@ -15,6 +15,8 @@
   * [The Insurance Pool](basics/how-eonian-works/the-insurance-pool.md)
   * [Savings Premium](basics/how-eonian-works/savings-premium.md)
   * [Assets Recovery](basics/how-eonian-works/assets-recovery.md)
+* [🖖 Guides](basics/guides/README.md)
+  * [Recovering Assets After a Wallet Hack](basics/guides/recovering-assets-after-a-wallet-hack.md)
 * [❓ FAQs](basics/faqs.md)
 
 ## PROTOCOL
