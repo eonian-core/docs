@@ -28,8 +28,16 @@ There are three possible cases:
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Emergency shutdown strategy sequence diagram.drawio (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Emergency shutdown strategy sequence diagram.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-In the picture above, the scheme for the whole flow. The harvest logic tries to collect profit and check how healthy the strategy is. The logic checks if a strategy has losses and how big the losses are.
+In the picture above, the scheme for the whole flow. The details are below:
+
+1. Check the cost of this transaction—**${transaction_cost}**
+2. Get the profit or loss number—**${profit} and ${loss}**
+3. Checks against the cost of the transaction.
+4. In case **${profit}—${cost}**> **${transaction_cost}** profit will be collected.
+5. The profit will be redistributed between all strategies connected to the Vault to maintain diversification and reduce financial risks.
+6. In case the **${loss} * LOSS_THRESHOLD < INVESTMENT_BALANCE**. The threshold by default is equal to 5%. This case is needed because the market has some fluctuations and it is expected behavior.
+7. In case a loss is significant meaning **${loss} * LOSS_THRESHOLD ≥ INVESTMENT_BALANCE** the logic will shut down the failed strategy and return funds to a Vault. Please note that this must happen as soon as possible. So the logic returns funds in the same transactions.
