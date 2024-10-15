@@ -8,7 +8,7 @@ description: >-
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ A yield aggregator is a DeFi protocol that automates the process of earning yiel
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

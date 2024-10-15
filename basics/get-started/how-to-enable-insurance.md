@@ -12,11 +12,11 @@ To insure your savings, you first need to deposit your crypto into the Eonian pr
 
 [Open Eonian](https://eonian.finance/earn), choose any Vault and connect your wallet.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Click on "Link email"
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ## Input Email
 

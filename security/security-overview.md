@@ -9,7 +9,7 @@ description: >-
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

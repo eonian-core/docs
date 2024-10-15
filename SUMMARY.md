@@ -7,7 +7,7 @@
 * [🚀 Get Started](basics/get-started/README.md)
   * [🤗 How to Deposit Crypto](basics/get-started/start-to-earn-crypto.md)
   * [🛡️ How to Enable Insurance](basics/get-started/how-to-enable-insurance.md)
-  * [🍰 How to Withdraw Tokens](basics/get-started/withdraw-tokens.md)
+  * [🍰 How to Withdraw Crypto](basics/get-started/withdraw-tokens.md)
 * [🛡️ The Eonian Protocol](basics/the-eonian-protocol.md)
 * [💪 Features and Benefits](basics/features-and-benefits.md)
 * [🌴 What Can I Do With Eonian?](basics/what-can-i-do-with-eonian.md)

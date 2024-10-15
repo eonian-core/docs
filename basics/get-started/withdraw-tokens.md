@@ -4,7 +4,7 @@ description: >-
   tokens from the Eonian protocol.
 ---
 
-# 🍰 How to Withdraw Tokens
+# 🍰 How to Withdraw Crypto
 
 When you decide to withdraw your tokens, navigate back to the Eonian.
 
@@ -50,7 +50,7 @@ Approve a connect request in your wallet to successfully link your wallet to the
 
 ## Click on the "Withdraw" tab
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@ Input the amount of tokens you wish to withdraw or click on percent.
 
 ## Click on the "Withdraw" button
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## Confirm withdrawal transaction
 

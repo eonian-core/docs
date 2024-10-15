@@ -28,7 +28,7 @@ You can think of our decentralized savings account as a bank savings account but
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
