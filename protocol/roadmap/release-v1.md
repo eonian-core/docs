@@ -1,10 +1,10 @@
 ---
-description: 🗓️ Launch in Q3 2024
+description: 🗓️ Launch in Q1 2025
 ---
 
 # Release v1
 
-During previous stages, we aim to establish an exceptional level of safety and security in the industry. As we approach Release v1, we will expand the number of strategies, tokens, and investment protocols, positioning our platform as a leader in the yield aggregator space. 🌐
+During previous stages, we aim to establish an exceptional level of safety and security in the industry. As we approach Release v1, we will expand the number of strategies, tokens, and investment protocols, positioning our platform as a leader in the crypto space. 🌐
 
 ## **What to expect?**
 

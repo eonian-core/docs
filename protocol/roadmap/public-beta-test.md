@@ -1,17 +1,17 @@
 ---
-description: 🗓️ Launching in Q2 2024
+description: 🗓️ Launched in August 26 2024
 ---
 
 # Public Beta Test
 
-After addressing major vulnerabilities and achieving stable APY during the previous development phases, we will have reached a security level that surpasses many prominent yield aggregators, preparing our protocol to handle a larger amount of value. 🚀
+After addressing major vulnerabilities and achieving stable APY during the previous development phases, we have reached a security level that surpasses all prominent yield aggregators and wallets, preparing our protocol to handle a larger amount of value. 🚀 On top of that, we launched our own insurance pool to insure users' savings, Eonian protocol, and investment protocols.
 
 ## **During the Public Beta Test**
 
 Throughout the public beta test, we will focus on expanding our offerings and enhancing the user experience:
 
 1. 📈 **Adding investment protocols and strategies -** We will integrate additional investment protocols and strategies to provide users with more diversified and optimized opportunities for earning rewards.
-2. 🔒 **Undergoing audits and strengthening safety systems -** To ensure the highest level of security, we will subject our protocol to rigorous audits by reputable firms and make any necessary enhancements to our safety systems.
+2. 🔒 **Undergoing additional audits and strengthening safety systems -** To ensure the highest level of security, we will subject our protocol to rigorous audits by reputable firms and make any necessary enhancements to our safety systems.
 3. 🖥️ **Enhancing the dApp interface and functionality -** Our development team will work tirelessly to improve the overall quality and functionality of our dApp, aiming to provide an intuitive, seamless, and satisfying user experience that meets the high standards set by our DAO.
 
 This stage is expected to last between 2 to 4 months. 💰 During this period, users can safely invest and earn rewards without any limitations.

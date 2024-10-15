@@ -1,10 +1,10 @@
-# ⚙ How Eonian Works
+# ⚙️ How Eonian Works
 
 ## Deposit and Insurance
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -16,7 +16,7 @@ While you holding these coins, they grow in relation to your original coins. Thi
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ This works as a collective security system. The revenue of total protocol liquid
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

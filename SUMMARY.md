@@ -5,9 +5,9 @@
 ## Basics
 
 * [🚀 Get Started](basics/get-started/README.md)
-  * [🤗 Joining Eonian](basics/get-started/joining-eonian.md)
-  * [💰 Start to Earn Crypto](basics/get-started/start-to-earn-crypto.md)
-  * [🍰 Withdraw Tokens](basics/get-started/withdraw-tokens.md)
+  * [🤗 How to Deposit Crypto](basics/get-started/start-to-earn-crypto.md)
+  * [🛡️ How to Enable Insurance](basics/get-started/how-to-enable-insurance.md)
+  * [🍰 How to Withdraw Tokens](basics/get-started/withdraw-tokens.md)
 * [🛡️ The Eonian Protocol](basics/the-eonian-protocol.md)
 * [💪 Features and Benefits](basics/features-and-benefits.md)
 * [🌴 What Can I Do With Eonian?](basics/what-can-i-do-with-eonian.md)
@@ -38,8 +38,8 @@
 ## Security
 
 * [🛡️ Security Overview](security/security-overview.md)
-* [📑 Audits](security/protocol-audits.md)
-* [📋 Vertical Audits](security/vertical-audits.md)
+* [📑 Audits](security/protocol-audits/README.md)
+  * [📋 Vertical Audits](security/protocol-audits/vertical-audits.md)
 * [⏰ Intelligent Emergency Shutdown](security/intelligent-emergency-shutdown.md)
 
 ## Ambassador Program

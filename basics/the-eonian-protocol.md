@@ -1,4 +1,4 @@
-# 🛡 The Eonian Protocol
+# 🛡️ The Eonian Protocol
 
 ### Introduction
 
@@ -8,7 +8,7 @@ Cryptocurrency adoption is surging, but with increased adoption comes increased 
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ You can think of our decentralized savings account as a bank savings account but
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

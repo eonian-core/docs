@@ -1,14 +1,16 @@
 ---
 description: >-
   Step-by-step guides for beginners, explaining how to start using the Eonian
-  protocol
+  protocol.
 ---
 
 # 🚀 Get Started
 
-{% content-ref url="joining-eonian.md" %}
-[joining-eonian.md](joining-eonian.md)
-{% endcontent-ref %}
+To insure your savings, you first need to deposit your crypto into the Eonian protocol and then link your wallet and email. You can only deposit your crypto without linking your email. This way, you will save it in insured storage, which generates interest on your savings.&#x20;
+
+By linking the email after that, you enable insurance for your wallet. As a result, if someone hacks your wallet, you will be able to recover access to your wallet through email or get reimbursement if a hacker is able to steal your assets.
+
+## Step-by-step guide
 
 {% content-ref url="start-to-earn-crypto.md" %}
 [start-to-earn-crypto.md](start-to-earn-crypto.md)

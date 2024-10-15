@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# ♾ Welcome to Eonian
+# ♾️ Welcome to Eonian
 
 ## What is Eonian?
 
@@ -30,6 +30,10 @@ The Eonian protocol provides zero-fee insurance from crypto wallet hacks. This a
 You can read about [Eonian protocol there](https://app.gitbook.com/o/xgYiQpRVz9aTVJOJJ1bx/s/VE523Jodte4jjJfssUo3/\~/changes/21/basics/the-eonian-protocol).
 
 ## How Is Eonian Used? <a href="#how-is-stargate-used" id="how-is-stargate-used"></a>
+
+Watch a short introduction (3 minutes) from our CEO on how to use Eonian.
+
+{% embed url="https://youtu.be/etx8e5QIlM4?si=qIR_RQH-22qQtZ9M" %}
 
 You can use Eonian for a variety of targets. Firstly, you can hold crypto in which you invested long-term in the protocol to decrease the risk of losing access to these assets. This is a much safer option in comparison to Centralized Exchanges (CEX), which can lock accounts or go bankrupt because, with Eonian, you still hold your private key and have full access to your assets. Eonian is also much safer than holding assets in just a hardware wallet because you insure your wallets against hacks and are still able to store them in a hardware wallet.
 

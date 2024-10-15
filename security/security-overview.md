@@ -9,7 +9,7 @@ description: >-
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -31,18 +31,18 @@ To solve DeFi security issues, we use many different approaches and strategies, 
 
 ## Learn More
 
-We place the central place of our development on the security of protocol. You can read more about it on our [website](https://eonian.finance/security).&#x20;
-
-There, you can read additional information and explanations of the different safety systems that we use. For example, Vertical Audits:
-
-{% content-ref url="vertical-audits.md" %}
-[vertical-audits.md](vertical-audits.md)
-{% endcontent-ref %}
+We place the central place of our development on the security of protocol. You can read more about it on our [website](https://eonian.finance/security). In these documents, you can read additional information and explanations of the different safety systems that we use.
 
 Audits of our protocol by third-party providers:
 
-{% content-ref url="protocol-audits.md" %}
-[protocol-audits.md](protocol-audits.md)
+{% content-ref url="protocol-audits/" %}
+[protocol-audits](protocol-audits/)
+{% endcontent-ref %}
+
+&#x20;Audits performed by our team for third-party investment protocols:
+
+{% content-ref url="protocol-audits/vertical-audits.md" %}
+[vertical-audits.md](protocol-audits/vertical-audits.md)
 {% endcontent-ref %}
 
 The system that prevents excessive losses of assets:

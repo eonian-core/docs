@@ -21,6 +21,6 @@ Vertical audits exemplify our commitment to redefine the DeFi landscape by makin
 ### Resources
 
 * [List of Vertical Audits](https://leovs09.notion.site/Protocols-Audits-6bfdf8b29fb245b2be8db5c24726e795?pvs=4)
-* [Audits of our protocol](protocol-audits.md) are performed by third-party audit companies.
+* [Audits of our protocol](./) are performed by third-party audit companies.
 * [The checklist](https://leovs09.notion.site/Crypto-Project-Audit-Checklist-e24414dcd1c94b5f818343d46f25013d?pvs=4) that we use to audit new projects.
 * [List of hacks](https://www.notion.so/leovs09/DeFi-Hacks-and-Vulnerabilities-a53964267ca14f87af2a3cc0e40130f8) and resources to fight with them that our core team collected and maintained.
