@@ -9,11 +9,13 @@ description: >-
 
 ### Lost digital assets because of CEXes bankruptcies
 
-> **More than $8.9 Billion is lost.**
+> **More than $30 Billion is lost.**
 
-This number is hard to know for sure, many CEXes don't discloss total assets that they wasn't able to return after bankrupties. For now, we know that at least $8.9 Billion was lost during FTX's bankruptcy.
+This number is hard to know for sure. Many CEXes don't disclose total assets they couldn't return after bankruptcies. For now, we know that at least $30 Billion was lost during 50 bankruptcies.
 
-[Source](https://www.cnbc.com/2023/10/02/ftx-customers-who-lost-fortune-are-doubling-down-on-crypto-.html)
+* [CNBC](https://www.cnbc.com/2023/10/02/ftx-customers-who-lost-fortune-are-doubling-down-on-crypto-.html)
+* [Milkroad](https://milkroad.com/bankruptcies/)
+* [Agio](https://www.agioratings.io/insights/default-setting-cex-failure-rates)
 
 ### CEXes exited US
 
